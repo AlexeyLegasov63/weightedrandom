@@ -25,4 +25,9 @@ print("Picked:", picked.id, picked.data.name)
 
 ## Wally
 
+```bash
+
+WeightedRandom = "alexeylegasov63/weightedrandom@0.1.0"
+
+```
 
