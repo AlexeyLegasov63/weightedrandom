@@ -1,0 +1,10 @@
+[package]
+name = "alexeylegasov63/weightedrandom"
+description = "A module for weighted random selection with dynamic probability adjustment."
+version = "0.1.0"
+license = "Apache-2.0"
+authors = ["AlexeyLegasov63"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dev-dependencies]
