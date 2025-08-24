@@ -6,5 +6,3 @@ license = "Apache-2.0"
 authors = ["AlexeyLegasov63"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
-
-[dev-dependencies]
